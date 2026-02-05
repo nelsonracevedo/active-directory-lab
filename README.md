@@ -130,7 +130,8 @@ The following tests were performed to ensure proper functionality:
 - Verified firewall and GPO enforcement on CLIENT01  
 - Confirmed audit logon and logoff events were recorded on DC01  
 
-> 📸 Screenshots: `gpresult` output and Event Viewer logs
+><img width="567" height="294" alt="image" src="https://github.com/user-attachments/assets/0345550a-8429-409a-99c9-324f142bda82" />
+> Screenshots: `Firewall status`
 
 ---
 
