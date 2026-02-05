@@ -38,7 +38,7 @@ This project demonstrates the deployment and hardening of a Windows Active Direc
 - **CLIENT01** – Windows 11 (Domain-Joined Client)
 
 > <img width="308" height="178" alt="image" src="https://github.com/user-attachments/assets/645edb96-3e40-40d4-9a75-fae82739705b" />
-> 📸 Screenshot: CLIENT01 successfully joined to the domain
+> Screenshot: CLIENT01 successfully joined to the domain
 
 
 ---
@@ -49,7 +49,11 @@ This project demonstrates the deployment and hardening of a Windows Active Direc
 - **DNS Configuration:**  
   - DNS points to **DC01** (including DC01 itself)
 
-> 📸 Screenshots: VMware network configuration and DC01 network settings
+
+
+><img width="360" height="344" alt="image" src="https://github.com/user-attachments/assets/8898a69f-4262-4315-af60-a593c77a502e" />
+><img width="309" height="350" alt="image" src="https://github.com/user-attachments/assets/7c91e24b-10b6-46e8-883f-d03652a46499" />
+>Screenshots: VMware network configuration and DC01 network settings
 
 ---
 
