@@ -102,7 +102,7 @@ These controls improve domain security and provide visibility into user activity
 **Note:**  
 The default Administrator account was disabled after creating a dedicated administrative account named **it.admin**. If this account were not available, the default Administrator account could have been renamed instead.
 
-><img width="226" height="190" alt="image" src="https://github.com/user-attachments/assets/dadc07bd-afdd-4d6f-b076-61db17b86147" />
+><img width="259" height="270" alt="image" src="https://github.com/user-attachments/assets/3460be91-8264-4cf9-9399-591cd78d4063" />
 ><img width="311" height="272" alt="image" src="https://github.com/user-attachments/assets/8bee8d39-b1ca-4e0a-87a6-1d4d712635ba" />
 >Screenshots: Group Policy Management Console and audit events in Event Viewer
 
@@ -116,8 +116,8 @@ A secure shared folder was created using **NTFS** and **share permissions**:
 
 This demonstrates role-based access control using group membership.
 
-><img width="259" height="270" alt="image" src="https://github.com/user-attachments/assets/3460be91-8264-4cf9-9399-591cd78d4063" />
-><img width="311" height="272" alt="image" src="https://github.com/user-attachments/assets/87deb2ac-0ae5-4e7c-b65f-9856c621bb01" />
+><img width="261" height="235" alt="image" src="https://github.com/user-attachments/assets/0e232008-8ee2-4558-851e-8293ec21bad0" />
+><img width="639" height="229" alt="image" src="https://github.com/user-attachments/assets/eff9deaa-f7ea-4aed-8778-2e4bdf89f14f" />
 > Screenshots: Share permissions and access denied message
 
 ---
