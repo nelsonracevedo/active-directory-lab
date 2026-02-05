@@ -37,8 +37,8 @@ This project demonstrates the deployment and hardening of a Windows Active Direc
 - **DC01** – Windows Server 2022 (Domain Controller)  
 - **CLIENT01** – Windows 11 (Domain-Joined Client)
 
-> 📸 Screenshot: CLIENT01 successfully joined to the domain
 > <img width="308" height="178" alt="image" src="https://github.com/user-attachments/assets/645edb96-3e40-40d4-9a75-fae82739705b" />
+> 📸 Screenshot: CLIENT01 successfully joined to the domain
 
 
 ---
