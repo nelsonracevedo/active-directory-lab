@@ -66,7 +66,7 @@ This project demonstrates the deployment and hardening of a Windows Active Direc
 
 This structure allows targeted Group Policy application, keeps the environment organized, and reflects real-world enterprise design.
 
-> 📸 Screenshot: OU structure in Active Directory Users and Computers
+> <img width="226" height="190" alt="image" src="https://github.com/user-attachments/assets/b8073afb-a82f-4b8c-b81b-2552a7dec3e7" /> Screenshot: OU structure in Active Directory Users and Computers
 
 ---
 
@@ -82,8 +82,6 @@ This structure allows targeted Group Policy application, keeps the environment o
 - **HR_Users** → `john.hr`  
 
 Users and groups were created within their respective Organizational Units. Group membership was used to apply Group Policies and control access to shared resources.
-
-> 📸 Screenshot: Group membership configuration
 
 ---
 
@@ -104,7 +102,9 @@ These controls improve domain security and provide visibility into user activity
 **Note:**  
 The default Administrator account was disabled after creating a dedicated administrative account named **it.admin**. If this account were not available, the default Administrator account could have been renamed instead.
 
-> 📸 Screenshots: Group Policy Management Console and audit events in Event Viewer
+><img width="226" height="190" alt="image" src="https://github.com/user-attachments/assets/dadc07bd-afdd-4d6f-b076-61db17b86147" />
+><img width="311" height="272" alt="image" src="https://github.com/user-attachments/assets/8bee8d39-b1ca-4e0a-87a6-1d4d712635ba" />
+>Screenshots: Group Policy Management Console and audit events in Event Viewer
 
 ---
 
@@ -116,7 +116,9 @@ A secure shared folder was created using **NTFS** and **share permissions**:
 
 This demonstrates role-based access control using group membership.
 
-> 📸 Screenshots: Share permissions and access denied message
+><img width="259" height="270" alt="image" src="https://github.com/user-attachments/assets/3460be91-8264-4cf9-9399-591cd78d4063" />
+><img width="311" height="272" alt="image" src="https://github.com/user-attachments/assets/87deb2ac-0ae5-4e7c-b65f-9856c621bb01" />
+> Screenshots: Share permissions and access denied message
 
 ---
 
