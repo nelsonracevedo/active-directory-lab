@@ -1,7 +1,7 @@
 # Windows Active Directory Domain Security Lab 🖥️
 
 **Author:** Nelson R. Acevedo | Cybersecurity Student  
-**Date:** February 2026
+**Date:** January 2026
 
 ---
 
