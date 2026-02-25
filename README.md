@@ -44,6 +44,7 @@ For detailed setup, screenshots, and step-by-step instructions, download the ful
 ---
 
 ## Screenshots
-*(Optional: 2–3 key images to show AD or GPO setup)*  
+*OU Structure*  
 ![OU Structure](Screenshots/OU%20Structure.png)  
+*Group Policies*  
 ![Group Policy](Screenshots/Group-Policy.png)
