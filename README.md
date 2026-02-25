@@ -150,8 +150,8 @@ The following tests were performed to ensure proper functionality:
 
 ### Challenges
 - #### DNS misconfigurations during setup:
-    .🚨 Challenge: DNS misconfigured — domain join failed
-    .🛠 Fix: Updated DC01 DNS settings to point to itself 
+    - 🚨 Challenge: DNS misconfigured — domain join failed
+    - 🛠 Fix: Updated DC01 DNS settings to point to itself 
 - Group Policies not applying due to incorrect OU placement  
 
 ### Lessons Learned
