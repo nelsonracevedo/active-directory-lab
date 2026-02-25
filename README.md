@@ -39,7 +39,7 @@ It simulates a small enterprise with centralized user management, Group Policy e
 
 ## 📄 Full Lab Report
 For detailed setup, screenshots, and step-by-step instructions, download the full lab report:  
-[Documentation/Active-Directory-Lab-Report.pdf](Documentation/Active-Directory-Lab-Report.pdf)
+[Documentation/Active-Directory-Lab-Report.pdf](Documentations/Active-Directory-Lab-Report.pdf)
 
 ---
 
