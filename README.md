@@ -148,13 +148,13 @@ The following tests were performed to ensure proper functionality:
 
 ## ⚠️ Challenges & Lessons Learned
 
-### Challenges
-- #### DNS misconfigurations during setup:
-    - 🚨 Challenge: DNS misconfigured — domain join failed
-    - 🛠 Fix: Updated DC01 DNS settings to point to itself 
-- #### Group Policies not applying due to incorrect OU placement:
-    - 🚨 Challenge: I thought that having a user who was member of a group in a Organizational Unit (OU) made it part of that OU - This resulted on polocies no being applied correctly
-    - 🛠 Fix: Move the users from the User OU to their respective OUs   
+- ### DNS misconfigurations during setup:
+  * 🚨 Challenge: DNS misconfigured — domain join failed
+  * 🛠 Fix: Updated DC01 DNS settings to point to itself
+
+- ### Group Policies not applying due to incorrect OU placement:
+  * 🚨 Challenge: I thought that having a user who was a member of a group in an Organizational Unit (OU) made it part of that OU - This resulted in policies not being applied correctly
+  * 🛠 Fix: Move the users from the User OU to their respective OUs
 
 ### Lessons Learned
 - DNS is critical for Active Directory functionality  
