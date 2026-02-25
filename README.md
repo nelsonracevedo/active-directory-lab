@@ -18,6 +18,7 @@ This project demonstrates the deployment and hardening of a Windows Active Direc
 
 ---
 
+
 ## 🧰 Tools & Technologies
 - VMware Workstation  
 - Windows Server 2022  
@@ -25,6 +26,16 @@ This project demonstrates the deployment and hardening of a Windows Active Direc
 - Active Directory Domain Services (AD DS)  
 - DNS  
 - Group Policy Management  
+
+---
+
+## ⚙️ Setup Steps
+1. Installed Windows Server 2022
+2. Promoted to Domain Controller
+3. Created OU structure: IT, HR, Users
+4. Configured DNS
+5. Joined Windows 11 client to domain
+6. Created groups & assigned permissions  
 
 ---
 
@@ -138,7 +149,9 @@ The following tests were performed to ensure proper functionality:
 ## ⚠️ Challenges & Lessons Learned
 
 ### Challenges
-- DNS misconfigurations during setup  
+- #### DNS misconfigurations during setup:
+    .🚨 Challenge: DNS misconfigured — domain join failed
+    .🛠 Fix: Updated DC01 DNS settings to point to itself 
 - Group Policies not applying due to incorrect OU placement  
 
 ### Lessons Learned
