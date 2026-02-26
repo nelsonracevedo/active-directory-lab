@@ -11,12 +11,13 @@ It simulates a small enterprise with centralized user management, Group Policy e
 
 ---
 
-## Key Tasks Performed
+## Key Skills Demonstrated
 - Created a Windows Domain and joined a Windows 11 client
-- Managed users and groups centrally via Active Directory
+- Configured OU structure via active directory: IT, HR, Users  
 - Configured Group Policies and security measures
 - Set up secure file shares with NTFS and Share permissions
 - Monitored user activity using Audit logs
+- Troubleshot DNS and GPO issues 
 
 ---
 
@@ -29,12 +30,14 @@ It simulates a small enterprise with centralized user management, Group Policy e
 
 ---
 
-## Highlights
-- Configured OU structure: IT, HR, Users  
-- Implemented strong password policy and workstation security  
-- Secured file shares using user groups  
-- Troubleshot DNS and GPO issues  
-
+## Relevance to Help Desk
+This project demostrates skills important for helpdesk, such as:
+- Creating and managing domain user accounts
+- Troubleshooting domain join and DNS issues
+- Configuring and validating Group Policy settings
+- Managing file access permissions using security groups
+- Monitoring login activity and investigating user issues
+ 
 ---
 
 ## 📄 Full Lab Report
